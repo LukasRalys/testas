@@ -6,7 +6,7 @@ $fn=10**7;
 $obj=new duktseq($fn);
 
 $obj-> fibionaci ();
-#Versija 2
+#Versija 3
 //print ($obj-> ans1. '<br>');
 print ($obj-> get_answer() . '<br>');
 //print ("<br>");
